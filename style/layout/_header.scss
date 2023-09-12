@@ -1,0 +1,147 @@
+.navbar{
+    width: 100%;
+    height: 75px;
+    background-color: rgba(0,0,0,0.7);
+    font-family: 'Lato', sans-serif;
+    
+    font-size: larger;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    align-items: center;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 15px;
+    
+    
+    
+    
+}
+.b{
+    position: sticky;
+    top: 0;
+
+}
+.div2{
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: relative;
+    margin-right: 200px;
+    color: #AD9395;
+    
+    &:hover{
+        color:aliceblue;
+    }
+    
+}
+.div1{
+    width: 300px;
+    
+    text-align: end;
+
+}
+.esas{
+     background: linear-gradient(264deg, #ff6a00 0%, #ee0979 100%);
+     margin: 0;
+     padding: 0;
+    
+    width: 100%;
+    height: 700px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    .mo{
+        color: white;
+        width: 80%;
+        height: 15rem;
+        font-size: 100px;
+        text-align: center;
+        margin-top: 200px;
+        font-family: 'Catamaran', sans-serif;
+        font-family: 'Lato', sans-serif;
+
+    }
+    .sj{
+        font-size: 70px;
+    }
+    
+}
+.vb{
+    width: 100%;
+    text-align: center;
+    margin-top: -250px;
+    button{
+        border-radius: 35px;
+        width: 200px;
+        height: 4.5rem;
+        font-size: larger;
+        color: white;
+        background-color: #D8086E;
+        border-color: #D8086E;
+        box-shadow: none;
+    }
+}
+.mc{
+    width: 100%;
+    height: auto;
+    
+    margin-top: 200px;
+    div{
+        width: 374px;
+        height: 150px;
+        
+        .vk{
+            font-size: 16px;
+            font-family: 'Catamaran', sans-serif;
+            font-family: 'Lato', sans-serif;
+            text-align: left;
+            margin-left: 200px;
+            p{
+            font-size: 3rem;
+            font-family: 'Catamaran', sans-serif;
+            font-family: 'Lato', sans-serif;
+        }
+
+        }
+    }
+}
+.me{
+    width:402px ;
+    height: 402px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 250px;
+    margin-top: -62px;
+    
+}
+
+.vv{
+        width: 374px;
+        height: 150px;
+        
+        font-size: 16px;
+        font-family: 'Catamaran', sans-serif;
+        font-family: 'Lato', sans-serif;
+        text-align: left;
+        margin-left:750px ;
+        margin-top: 200px;
+        
+            p{
+            font-size: 3.5rem;}
+        
+
+    }
+.mt{
+    width:402px ;
+    height: 402px;
+    border-radius: 50%;
+    display: inline-block;
+   margin-left: 65px;
+    margin-top: -70px;
+
+}
+
